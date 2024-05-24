@@ -172,7 +172,7 @@ class _SigninWidgetState extends State<SigninWidget>
                                 padding: const EdgeInsetsDirectional.fromSTEB(
                                     10.0, 0.0, 0.0, 0.0),
                                 child: Text(
-                                  'Aayuh',
+                                  'Aay',
                                   style: FlutterFlowTheme.of(context)
                                       .displaySmall
                                       .override(
